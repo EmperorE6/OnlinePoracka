@@ -332,6 +332,7 @@ display:none;
        font-weight: 500;
        font-size:15px;
        background-color: #1cd48e;
+       text-align: center;
      }
      .Moobile_Billing{
         display:flex;
@@ -432,7 +433,6 @@ margin-bottom:10px;
 .mobile_place_order{
 width:100%;
 text-align: center;
-
 }
 .mobile_place_order input{
     width:60%;
@@ -441,7 +441,6 @@ text-align: center;
     color:white;
     border:none;
     font-size:15px;
-
 }
 .mobile_place_order input:focus{
     outline:none;
